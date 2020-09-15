@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@media screen and (max-width: 2000px){
+  .tabs-transparent {
+    padding-left: 380px!important;
+  }
+}
+@media screen and (max-width: 1600px) {
+  .tabs-transparent {
+    padding-left: 280px!important;
+  }
+}
+@media screen and (max-width: 800px) {
+  .tabs-transparent {
+    padding-left: 0px!important;
+  }
+}
+.each-slide > div {
+  align-items: center;
+  height: 650px; 
+  margin-top: -37px;
+}
+
+.each-slide span {
+  padding: 20px;
+  font-size: 20px;
+  background: #efefef;
+  text-align: center;
+}
+
+.bg-blue{
+  background-color: #e0edf5;
+  padding :50px;
+}
+.paddinTop{
+  padding-top: 150px;
+}
+
+.firstPict{
+  background-image: url("https://www.scasset.com/scasset/wp-content/uploads/2019/04/testbannersrt.jpg");
+  
+}
+.secPict{
+  background-image: url("https://www.sansiri.com/sansiri_wp2018/wp-content/uploads/2018/07/hero_banner_skk_20180713.jpg");
+  
+}
+.thirdPict{
+  background-image: url("https://www.bluechipthai.com/assets/images/SCK2%20Facade%20237.jpg");
+}
+
+
